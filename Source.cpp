@@ -8,7 +8,7 @@ using namespace std;
 using namespace cv;
 
 /**
- * This program reads biscuit images with shapes of rectangle, circle, and heart,
+ * This program reads images,
  * then detect shape and divide into three grounps.
  */
 
